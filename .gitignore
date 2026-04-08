@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# OS
+.DS_Store
+
+# Backend / Maven
+backend/target/
+*.log
+
+# Frontend / React
+frontend/node_modules/
+frontend/build/
+
+# Env / temp
+.env
+coverage/
